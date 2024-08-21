@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Project A",
+      "imageSrc": "projects/notes2.jpg",
+      "description": "Used Java in Android Studio to build a mobile application that allowed users to enter recipes and photos of the food. It then saves it in a data based and displays recipes like a notes app. ",
+      "skills": ["Java", "Android Studio"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Project B",
+      "imageSrc": "projects/boba bear logo.png",
+      "description": "Used Java in Android Studio to build a mobile application that allowed users to login and order Boba and allows an administrator to view all the orders and where they need to be delivered too. ",
+      "skills": ["Java", "Android Studio"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Project C",
+      "imageSrc": "projects/cart.JPG",
+      "description": "An Inventory program that allows the user to order and sell items, also displays a report of how many items are present and what need to be reorder (used arrays, sorting functions, switch statements).",
+      "skills": ["C++", "Emacs"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]

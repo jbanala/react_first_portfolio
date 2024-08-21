@@ -1,0 +1,32 @@
+
+[
+    {
+      "role": "Programming Instructor",
+      "organisation": "Techno Smart Kids",
+      "startDate": "Nov, 2021",
+      "endDate": "Aug, 2022",
+      "experiences": ["Taught Scratch to elementary students.","Built projects to solve problems, make games, animations, and interactive stories "],
+      "imageSrc": "history/tsk2.png"
+    },
+    {
+      "role": "Teaching Assistant",
+      "organisation": "Techno Smart Kids",
+      "startDate": "Nov, 2021",
+      "endDate": "Nov, 2022",
+      "experiences": ["Taught Python to elementary students","Focused on concepts about data types, input/output, simple data structures, loops, turtle graphics and simple functions."],
+      "imageSrc": "history/tsk2.png"
+    },
+    {
+      "role": "SWE Intern",
+      "organisation": "Quadrant Technologies",
+      "startDate": "July, 2024",
+      "endDate": "Aug, 2024",
+      "experiences": [
+        "Worked with AzureDevOps",
+        "Worked on Data Engineering and Data Warehousing",
+        "Got exposure to Generative Artificial Intelligence"
+      ],
+      "imageSrc": "history/qt.jpg"
+    }
+  ]
+  
